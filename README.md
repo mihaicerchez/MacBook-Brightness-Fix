@@ -1,4 +1,4 @@
-# MacBookBrightnessFix
+# Screen Brightness Fix
 A screen brightness changing fix for Retina MacBook Pros that worked for me.
 
 My issue started when I replaced the whole upper lid of my Retina MacBook Pro Mid 2014.
