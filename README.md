@@ -9,6 +9,8 @@ I noticed that I couldn't change the brightness of my screen, so I did a long re
 I've made a program that's compatible with all the versions of macOS.
 Basically what it does is resetting your screen completely.
 
+Just open it, and it will do it's thing.
+
 You'll notice that it will turn off and back on.
 After that, your screen brightness should change properly when you adjust it.
 
