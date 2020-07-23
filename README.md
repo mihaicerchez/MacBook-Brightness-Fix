@@ -13,3 +13,5 @@ You'll notice that it will turn off and back on.
 After that, your screen brightness should change properly when you adjust it.
 
 This fix in order to work, it should be opened at avery boot. So put it in the login items in your macOS "User" settings.
+
+google-site-verification: googleeffc3898958e473c.html
