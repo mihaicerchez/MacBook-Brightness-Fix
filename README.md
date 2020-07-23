@@ -10,4 +10,4 @@ Basically what it does is resetting your screen completely.
 You'll notice that it will turn off and back on.
 After that, your screen brightness should change properly when you adjust it.
 
-This fix, in order to work, it should be opened at avery boot, so put it in the login items in your macOS "User" settings.
+This fix in order to work, it should be opened at avery boot. So put it in the login items in your macOS "User" settings.
