@@ -1,7 +1,7 @@
 # Screen Brightness Fix
 A screen brightness changing fix for Retina MacBook Pros that worked for me.
 
-Download: https://github.com/mihaicerchez/MacBook-Brightness-Fix/releases/tag/v1.2
+**Download:** [Here](https://github.com/mihaicerchez/MacBook-Brightness-Fix/releases/tag/v1.2)
 
 My issue started when I replaced the whole upper lid of my Retina MacBook Pro Mid 2014.
 I noticed that I couldn't change the brightness of my screen, so I did a long research seeking for an answer.
